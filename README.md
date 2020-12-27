@@ -22,10 +22,21 @@ My name is **Raed**, and I do computer stuff ✨
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
+
+<!-- GitHub stats -->
+<b>⚡ My GitHub Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaedsLab&show_icons=true&hide_border=true&theme=vue-dark" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedsLab&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
+
 *NOTE: Top languages are not an indicator skill, it's a github metric of which languages I have the most **public** code on github.*
 
-![Raed's github stats](https://github-readme-stats.vercel.app/api?username=RaedsLab&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaedsLab&layout=compact&theme=vue-dark)
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
