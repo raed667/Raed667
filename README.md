@@ -4,6 +4,24 @@ My name is **Raed**, and I do computer stuff ✨
 
 [🌐  website](https://raed.dev) · [🐦 Twitter](https://twitter.com/Raed667) · [👔 LinkedIn](https://www.linkedin.com/in/raed-chammam/)
 
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
+
 *NOTE: Top languages are not an indicator skill, it's a github metric of which languages I have the most **public** code on github.*
 
 ![Raed's github stats](https://github-readme-stats.vercel.app/api?username=RaedsLab&show_icons=true&theme=vue-dark)
