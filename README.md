@@ -33,7 +33,7 @@ My name is **Raed**, and I do computer stuff ✨
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedsLab&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
 
-*NOTE: Top languages are not an indicator skill, it's a github metric of which languages I have the most **public** code on github.*
+*NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years.*
 
 </p>
 
