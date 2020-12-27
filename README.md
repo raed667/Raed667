@@ -4,7 +4,10 @@ My name is **Raed**, and I do computer stuff ✨
 
 [🌐  website](https://raed.dev) · [🐦 Twitter](https://twitter.com/Raed667) · [👔 LinkedIn](https://www.linkedin.com/in/raed-chammam/)
 
-![Spotify](https://spotify.raed.dev/api/get-spotify-current-svg?v2)
+<!-- GitHub stats -->
+<b>🎧.  I'm currently listening to</b>
+
+[![Spotify](https://spotify.raed.dev/api/get-spotify-current-svg?v2)](https://spotify.raed.dev/)
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
