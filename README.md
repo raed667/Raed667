@@ -6,42 +6,21 @@ My name is **Raed**, and I do computer stuff ✨
 
 <!-- Spotify -->
 <b>🎧  I'm currently listening to</b>
-
-[![Spotify](https://spotify.raed.dev/api/get-spotify-current-svg?v2)](https://spotify.raed.dev/)
-
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
-
+<p>
+<img height="180em" src="https://spotify.raed.dev/api/get-spotify-current-svg?v2" />
+</p>
 
 <!-- GitHub stats -->
 <b>⚡ My GitHub Statistics</b>
 
 <p>
-<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaedsLab&show_icons=true&hide_border=true&theme=vue-dark" />
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaedsLab&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
 
 *NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years.*
-
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
