@@ -7,7 +7,7 @@ My name is **Raed**, and I do computer stuff ✨
 <!-- Spotify -->
 <b>🎧  I'm currently listening to</b>
 <p>
-<img height="180em" src="https://spotify.raed.dev/api/get-spotify-current-svg?v2" />
+<a href="https://spotify.raed.dev/" target="_blank"><img height="180em" src="https://spotify.raed.dev/api/get-spotify-current-svg?v2" /></a>
 </p>
 
 <!-- GitHub stats -->
