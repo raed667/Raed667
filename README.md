@@ -40,7 +40,7 @@ _NOTE: Top languages are not an indicator skill, it's just a metric of how much 
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
             alt="jest" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img
-            src="icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
+            src="icons/nodejs/nodejs-original.svg" alt="nodejs"
             width="40" height="40" /> </a>
     <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
             alt="grafana" width="40" height="40" />
