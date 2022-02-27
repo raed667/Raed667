@@ -1,5 +1,5 @@
 # THIS WORKFLOW IS AUTO-GENERATED
-name: Publish examples
+name: Metrics
 on:
   schedule:
     - cron: "0 8 1/2 * *"
