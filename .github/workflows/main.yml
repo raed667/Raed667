@@ -1,8 +1,7 @@
-# THIS WORKFLOW IS AUTO-GENERATED
 name: Metrics
 on:
   schedule:
-    - cron: "0 8 1/2 * *"
+    - cron: "0 * * * *"
 
 jobs:
   examples:
