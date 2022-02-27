@@ -1,0 +1,12 @@
+# THIS WORKFLOW IS AUTO-GENERATED
+name: Publish examples
+on:
+  schedule:
+    - cron: "0 8 1/2 * *"
+
+jobs:
+  examples:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.19
