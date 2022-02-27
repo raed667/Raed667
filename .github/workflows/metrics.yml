@@ -10,3 +10,5 @@ jobs:
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.19
+        with:
+          token: ${{ secrets.GH_TOKEN_2023 }}
