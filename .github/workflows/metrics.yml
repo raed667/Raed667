@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.GH_TOKEN_2023 }}
 
@@ -19,7 +19,7 @@ jobs:
           base: header
           config_timezone: Europe/Paris
           plugin_habits: yes
-          plugin_habits_days: 14
+          plugin_habits_days: 100
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_trim: yes
