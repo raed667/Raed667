@@ -1,11 +1,9 @@
-### Hi! I'm [Raed](https://raed.dev?s=github) 👋
+Hi! My name is **[Raed](https://raed.dev?s=github)**, and I do computer stuff ✨ 
 
-My name is **Raed**, and I do computer stuff ✨
-
-[🌐 website](https://raed.dev) · [👔 LinkedIn](https://www.linkedin.com/in/raed-chammam/)
+You can find my [🌐 website](https://raed.dev), and my [👔 LinkedIn](https://www.linkedin.com/in/raed-chammam/).
 
 <!-- Spotify -->
-
+<br/>
 <b>🎧 I'm currently listening to</b>
 
 <p>
