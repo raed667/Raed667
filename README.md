@@ -1,4 +1,4 @@
-Hi! My name is **[Raed](https://raed.dev?s=github)**, and I do computer stuff ✨ 
+Hi! My name is **[Raed](https://raed.dev?s=github)**, and I do computer stuff ✨
 
 You can find my [🌐 website](https://raed.dev), and my [👔 LinkedIn](https://www.linkedin.com/in/raed-chammam/).
 
@@ -20,7 +20,7 @@ You can find my [🌐 website](https://raed.dev), and my [👔 LinkedIn](https:/
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raed667&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
 
-_NOTE: Top languages are not an indicator skill, it's just a metric of how much **public** code I have written over the years._
+_NOTE: Top languages are not a skill indicator. This is just a metric of how much **public** code I wrote over the years._
 
 </p>
 
