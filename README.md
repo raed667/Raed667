@@ -10,20 +10,6 @@ You can find my [🌐 website](https://raed.dev), and my [👔 LinkedIn](https:/
 <a href="https://spotify.raed.dev/" target="_blank"><img height="180em" src="https://spotify.raed.dev/api/get-spotify-current-svg?v2" /></a>
 </p>
 
-<!-- GitHub stats -->
-
-<b>⚡ My GitHub Statistics</b>
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raed667&show_icons=true&hide_border=true&theme=vue-dark" />
-
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raed667&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=vue-dark"/>
-
-_NOTE: Top languages are not a skill indicator. This is just a metric of how much **public** code I wrote over the years._
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img
