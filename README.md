@@ -2,14 +2,6 @@ Hi! My name is **[Raed](https://raed.dev?s=github)**, and I do computer stuff �
 
 You can find my [🌐 website](https://raed.dev), and my [👔 LinkedIn](https://www.linkedin.com/in/raed-chammam/).
 
-<!-- Spotify -->
-<br/>
-<b>🎧 I'm currently listening to</b>
-
-<p>
-<a href="https://spotify.raed.dev/" target="_blank"><img height="180em" src="https://spotify.raed.dev/api/get-spotify-current-svg?v2" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img
@@ -52,5 +44,4 @@ You can find my [🌐 website](https://raed.dev), and my [👔 LinkedIn](https:/
     <a href="https://www.linux.org/" target="_blank"> <img
             src="icons/linux/linux-original.svg" alt="linux" width="40"
             height="40" /> </a>
-    
 </p>
